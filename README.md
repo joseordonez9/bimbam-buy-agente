@@ -37,3 +37,12 @@ El agente opera bajo el siguiente flujo de procesamiento:
    ```bash
    git clone [https://github.com/joseordonez9/bimbam-buy-agente.git](https://github.com/joseordonez9/bimbam-buy-agente.git)
    cd bimbam-buy-agente
+
+   ## ☁️ Evidencia del Deploy en la Nube
+
+La aplicación se encuentra desplegada y ejecutable en la nube:
+
+* 🔗 **Enlace público de la aplicación:** [https://bimbam-buy-agente.streamlit.app](https://bimbam-buy-agente.streamlit.app) *(reemplaza con tu URL real)*
+
+### Captura de la aplicación en producción:
+![Demostración del Agente](https://raw.githubusercontent.com/joseordonez9/bimbam-buy-agente/main/evidencia.png)
