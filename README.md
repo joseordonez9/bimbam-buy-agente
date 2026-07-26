@@ -42,7 +42,7 @@ El agente opera bajo el siguiente flujo de procesamiento:
 
 La aplicación se encuentra desplegada y ejecutable en la nube:
 
-* 🔗 **Enlace público de la aplicación:** [https://bimbam-buy-agente.streamlit.app](https://bimbam-buy-agente.streamlit.app) *(reemplaza con tu URL real)*
+* 🔗 **Enlace público de la aplicación:** [https://bimbam-buy-agente-gxmyfgeghekow2s46jw8f2.streamlit.app/](https://bimbam-buy-agente-gxmyfgeghekow2s46jw8f2.streamlit.app/) *(reemplaza con tu URL real)*
 
 ### Captura de la aplicación en producción:
 ![Demostración del Agente](https://raw.githubusercontent.com/joseordonez9/bimbam-buy-agente/main/evidencia.png)
